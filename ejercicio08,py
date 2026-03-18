@@ -1,0 +1,14 @@
+# FECHA 14/03/2026
+# Ejercicio "2"
+
+# Un profesor presento las siguientes de estudiantes que asistieron a cinco clasds diferentes
+# 5, 8, 12, 20, 7
+# 
+# Guardar estos valores en una lista 
+# Recorra la lista 
+# Muestre cada número indicando cuántos estudiantes asistieron en cada clase
+
+asistencias = [5, 8, 12, 20, 7]
+print("Número de estudiantes que asistieron:")
+for i, asistencia in enumerate(asistencias, start=1):
+    print(f"asistencieron: {asistencia} estudiantes")
