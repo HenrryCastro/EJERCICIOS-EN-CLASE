@@ -1,4 +1,4 @@
 Juan,20,si,no
 Maria,17,si,si
 Pedro,30,no,no
-Ana,18,no,si
+Ana,18,no,siNombre: carlos, Edad: 19, Amuleto: si, Palabra: no
